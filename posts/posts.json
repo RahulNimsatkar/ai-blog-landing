@@ -1,0 +1,29 @@
+[
+  {
+    "filename": "2025-11-11-getting-started-with-blogging.md",
+    "title": "Getting Started with Blogging",
+    "date": "2025-11-11",
+    "author": "Blog Author",
+    "category": "Tutorial",
+    "description": "Learn how to start your own blog and create amazing content that people love to read.",
+    "tags": ["Blogging", "Tutorial", "Getting Started"]
+  },
+  {
+    "filename": "2025-11-10-markdown-guide.md",
+    "title": "Complete Markdown Guide",
+    "date": "2025-11-10",
+    "author": "Blog Author",
+    "category": "Guide",
+    "description": "A comprehensive guide to writing in Markdown with examples and best practices.",
+    "tags": ["Markdown", "Writing", "Guide"]
+  },
+  {
+    "filename": "2025-11-09-web-development-tips.md",
+    "title": "10 Essential Web Development Tips",
+    "date": "2025-11-09",
+    "author": "Blog Author",
+    "category": "Development",
+    "description": "Practical tips and tricks to improve your web development skills and build better websites.",
+    "tags": ["Web Development", "Tips", "JavaScript", "HTML", "CSS"]
+  }
+]
