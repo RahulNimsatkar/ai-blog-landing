@@ -1,12 +1,110 @@
 [
   {
+    "filename": "2025-11-11-eu-considers-law-to-phase-out-huawei-and-zte-equipment-from-.md",
+    "title": "EU considers law to phase out Huawei and ZTE equipment from bloc’s telecom networks",
+    "date": "2025-11-11",
+    "author": "Rahul Nimsatkar",
+    "category": "Technology",
+    "description": "A blog post about EU considers law to phase out Huawei and ZTE equipment from bloc’s telecom networks",
+    "tags": [
+      "blog",
+      "tech"
+    ]
+  },
+  {
+    "filename": "2025-11-11-how-founders-can-prepare-for-their-late-stage-fundraises-fro.md",
+    "title": "How founders can prepare for their late-stage fundraises from the start",
+    "date": "2025-11-11",
+    "author": "Rahul Nimsatkar",
+    "category": "Technology",
+    "description": "A blog post about How founders can prepare for their late-stage fundraises from the start",
+    "tags": [
+      "blog",
+      "tech"
+    ]
+  },
+  {
+    "filename": "2025-11-11-eu-considers-law-to-phase-out-huawei-and-zte-equipment-from-.md",
+    "title": "EU considers law to phase out Huawei and ZTE equipment from bloc’s telecom networks",
+    "date": "2025-11-11",
+    "author": "Rahul Nimsatkar",
+    "category": "Technology",
+    "description": "A blog post about EU considers law to phase out Huawei and ZTE equipment from bloc’s telecom networks",
+    "tags": [
+      "blog",
+      "tech"
+    ]
+  },
+  {
+    "filename": "2025-11-11-how-founders-can-prepare-for-their-late-stage-fundraises-fro.md",
+    "title": "How founders can prepare for their late-stage fundraises from the start",
+    "date": "2025-11-11",
+    "author": "Rahul Nimsatkar",
+    "category": "Technology",
+    "description": "A blog post about How founders can prepare for their late-stage fundraises from the start",
+    "tags": [
+      "blog",
+      "tech"
+    ]
+  },
+  {
+    "filename": "2025-11-11-meta-s-ai-chief-yann-lecun-to-launch-new-startup.md",
+    "title": "Meta's AI Chief Yann LeCun to Launch New Startup?",
+    "date": "2025-11-11",
+    "author": "Rahul Nimsatkar",
+    "category": "Technology",
+    "description": "Yann LeCun, Meta's chief AI scientist and a 'Godfather of AI', is reportedly planning to leave the tech giant to build his own startup, a seismic shift for the industry.",
+    "tags": [
+      "Yann LeCun",
+      "Meta",
+      "AI",
+      "Artificial Intelligence",
+      "Tech News",
+      "Startup",
+      "Technology"
+    ]
+  },
+  {
+    "filename": "2025-11-11-robyn-ai-empathetic-companion-by-a-former-physician.md",
+    "title": "Robyn AI: Empathetic Companion by a Former Physician",
+    "date": "2025-11-11",
+    "author": "Rahul Nimsatkar",
+    "category": "Health Tech",
+    "description": "Discover Robyn, the revolutionary AI companion created by a former physician to combat loneliness and provide empathetic support in our increasingly digital world.",
+    "tags": [
+      "AI",
+      "Mental Health",
+      "Empathy",
+      "Health Tech",
+      "Loneliness",
+      "AI Companion",
+      "Robyn"
+    ]
+  },
+  {
+    "filename": "2025-11-11-eu-considers-law-to-phase-out-huawei-and-zte-equipment-from-.md",
+    "title": "EU considers law to phase out Huawei and ZTE equipment from bloc's telecom networks",
+    "date": "2025-11-11",
+    "author": "Rahul Nimsatkar",
+    "category": "Technology",
+    "description": "A blog post about EU considers law to phase out Huawei and ZTE equipment from bloc's telecom networks",
+    "tags": [
+      "blog",
+      "tech"
+    ]
+  },
+  {
     "filename": "2025-11-11-getting-started-with-blogging.md",
     "title": "Getting Started with Blogging",
     "date": "2025-11-11",
     "author": "Blog Author",
     "category": "Tutorial",
     "description": "Learn how to start your own blog and create amazing content that people love to read.",
-    "tags": ["Blogging", "Tutorial", "Getting Started"]
+    "tags": [
+      "Blogging",
+      "Tutorial",
+      "Getting Started"
+    ]
   },
   {
     "filename": "2025-11-10-markdown-guide.md",
@@ -15,7 +113,11 @@
     "author": "Blog Author",
     "category": "Guide",
     "description": "A comprehensive guide to writing in Markdown with examples and best practices.",
-    "tags": ["Markdown", "Writing", "Guide"]
+    "tags": [
+      "Markdown",
+      "Writing",
+      "Guide"
+    ]
   },
   {
     "filename": "2025-11-09-web-development-tips.md",
@@ -24,6 +126,12 @@
     "author": "Blog Author",
     "category": "Development",
     "description": "Practical tips and tricks to improve your web development skills and build better websites.",
-    "tags": ["Web Development", "Tips", "JavaScript", "HTML", "CSS"]
+    "tags": [
+      "Web Development",
+      "Tips",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ]
   }
 ]
