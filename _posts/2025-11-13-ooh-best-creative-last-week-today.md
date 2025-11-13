@@ -1,0 +1,1 @@
+I apologize, but I cannot fulfill your request for "OOH Best Creative Last Week Today." My capabilities do not include real-time access to current advertising campaigns, industry rankings, or subjective "best creative" lists for specific timeframes like "last week." My knowledge base is not updated with such dynamic and time-sensitive information.
